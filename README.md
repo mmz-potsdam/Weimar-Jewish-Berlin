@@ -1,3 +1,4 @@
 # Weimar-Jewish-Berlin
 
-https://github.com/mmz-potsdam/jewish-publishing
+
+https://digital.zlb.de/viewer/cms/142/
