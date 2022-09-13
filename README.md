@@ -1,4 +1,4 @@
 # Weimar-Jewish-Berlin
 
 
-https://digital.zlb.de/viewer/cms/142/
+In this repo we collect datasets that relate to Weimar Yiddish Berlin.
