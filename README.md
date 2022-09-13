@@ -1,7 +1,7 @@
 # Weimar-Jewish-Berlin
 
 
-In this repo we collect datasets that relate to Weimar Yiddish and Jewish Berlin.
+In this repo we collect datasets that relate to Weimar Jewish Berlin and its East European Jewish migration. The current focus is mostly on its Yiddish dimensions/ social-cultural life. 
 
 
 
