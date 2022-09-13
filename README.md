@@ -1,7 +1,7 @@
 # Weimar-Jewish-Berlin
 
 
-In this repo we collect datasets that relate to Weimar Jewish Berlin and its East European Jewish migration.  
+In this repo we collect datasets that relate to Weimar Jewish Berlin and its East European Jewish migrants.  
 
 
 
