@@ -14,6 +14,6 @@ In this repo we collect or link to datasets that relate to Weimar Jewish Berlin 
 | Sass, Berliner Luftmenschen | Addresses organisations | OCR, CSV |
 |Kühn-Ludewig, Jiddische Bücher Berlin (1918-1936): Titel, Personen, Verlage| Publishers and printers, books and persons | OCR |
 | Neiss, Presse im Transit : jiddische Zeitungen und Zeitschriften in Berlin von 1919 bis 1925 | List of newspapers and periodicals | OCR, CSV |
-| Yuniverg, Jüdische Verleger des "russischen Berlin" in der Weimarer Republik | List of publishers | OCR |
+| Yuniverg, Jüdische Verleger des "russischen Berlin" in der Weimarer Republik | List of publishers | OCR, CSV |
 | [Adressbuch für den jüdischen Buchhandel 1927](https://github.com/mmz-potsdam/jewish-publishing/tree/master/addressbuch-juedischer-buchhandel) | List of publishers and printers | OCR, CSV | 
 
